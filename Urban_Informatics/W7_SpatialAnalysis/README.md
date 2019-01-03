@@ -1,0 +1,2 @@
+# Geopandas
+This was a short assignment designed to practice with both geopanndas and census data. It is a simple spatial exploratory analysis of census data, assessing whether the location of linkNYC access points is optimal to guarantee more equitable access to the internet.
